@@ -1,0 +1,47 @@
+.homepage{
+    background-color: #2c0047;
+}
+.homeImg {
+    width: 100%;
+}
+.homeH2{
+    margin-top: 20%
+    ;
+}
+.homeH2,.homeP{
+    color: #FFF;
+}
+.homeH5 {
+    color: #f7ea66;
+}
+.homeButton{
+    background-color: #f7ea66;
+    color: #2c0047;
+}
+.homeButton{
+    /* background-color: #f7ea66;
+    color: #2c0047;
+    border-radius: 40%; */
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    vertical-align: top;
+    text-align: center;
+    line-height: 24px;
+    color: #7f479a;
+    font-weight: 400;
+    font-family: "Berkshire Swash";
+    padding: 12px;
+    border-radius: 35px;
+    width: 155px;
+    height: 48px;
+    -webkit-transition: ease all .5s;
+    -moz-transition: ease all .5s;
+    -o-transition: ease all .5s;
+    transition: ease all .5s;
+    background: #f7ea66;
+}
+.homeButton:hover {
+    background-color: #2c0047;
+    color: #f7ea66;
+} 
